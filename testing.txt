@@ -3,4 +3,6 @@ this is atom generated file
 this is the third line
 this is end of test
 multiple lines
-adding test to gitdesktop
+
+m linux to github
+dding test to gitdesktop
